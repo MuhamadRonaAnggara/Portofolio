@@ -19,13 +19,13 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #e61919;
+  background: #730505;
   border-radius: 12px;
   transition: all 0.3s ease;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #e61919;
+  background: #730505;
 }
 
 /* navbar styling */
@@ -39,7 +39,7 @@ nav {
 }
 
 nav.sticky {
-  background: #e61919;
+  background: #730505;
   padding: 13px 0;
 }
 
@@ -70,7 +70,7 @@ nav .navbar .menu li {
 }
 
 .navbar .menu a:hover {
-  color: #e61919;
+  color: #730505;
 }
 
 nav.sticky .menu a {
@@ -78,11 +78,11 @@ nav.sticky .menu a {
 }
 
 nav.sticky .menu a:hover {
-  color: #e61919;
+  color: #730505;
 }
 
 .media-icons a {
-  color: #e61919;
+  color: #730505;
   font-size: 28px;
   margin: 0 10px;
 }
@@ -101,7 +101,7 @@ nav .menu-btn,
 }
 
 nav .menu-btn {
-  color: #e61919;
+  color: #730505;
 }
 
 nav.sticky .menu-btn {
@@ -147,7 +147,7 @@ nav.sticky .menu-btn {
 .home .text-three {
   font-size: 40px;
   margin: 5px 0;
-  color: #e61919;
+  color: #730505;
 }
 
 .home .text-four {
@@ -166,7 +166,7 @@ nav.sticky .menu-btn {
   border-radius: 6px;
   font-size: 25px;
   font-weight: 400;
-  background: #e61919;
+  background: #730505;
   color: #fff;
   cursor: pointer;
   border: 2px solid transparent;
@@ -174,9 +174,9 @@ nav.sticky .menu-btn {
 }
 
 .home .button button:hover {
-  border-color: #e61919;
+  border-color: #730505;
   background-color: #fff;
-  color: #e61919;
+  color: #730505;
 }
 
 /* About Section Styling */
@@ -218,7 +218,7 @@ section .title span::after {
   position: absolute;
   height: 3px;
   width: 100%;
-  background: #e61919;
+  background: #730505;
   left: 0;
   bottom: 0;
 }
@@ -318,12 +318,12 @@ section .media-icons {
 
 .skills-details .boxes .topic {
   font-size: 20px;
-  color: #e61919;
+  color: #730505;
 }
 
 .skills-details .boxes .per {
   font-size: 60px;
-  color: #e61919;
+  color: #730505;
 }
 
 /* My Services CSS */
@@ -345,14 +345,14 @@ section .media-icons {
 }
 
 .services .boxes .box:hover {
-  background: #e61919;
+  background: #730505;
   color: #fff;
 }
 
 .services .boxes .box .icon {
   height: 50px;
   width: 50px;
-  background: #e61919;
+  background: #730505;
   border-radius: 50%;
   text-align: center;
   line-height: 50px;
@@ -364,7 +364,7 @@ section .media-icons {
 
 .boxes .box:hover .icon {
   background-color: #fff;
-  color: #e61919;
+  color: #730505;
 }
 
 .services .boxes .box:hover .topic,
@@ -380,7 +380,7 @@ section .media-icons {
 
 /* Footer CSS */
 footer {
-  background: #e61919;
+  background: #730505;
   padding: 15px 0;
   text-align: center;
   font-family: 'Poppins', sans-serif;
@@ -407,7 +407,7 @@ footer .text span a:hover {
   bottom: 20px;
   right: 20px;
   color: #fff;
-  background: #e61919;
+  background: #730505;
   padding: 7px 12px;
   ;
   font-size: 18px;
@@ -484,7 +484,7 @@ footer .text span a:hover {
   }
 
   nav.sticky .menu a:hover {
-    color: #e61919;
+    color: #730505;
   }
 
   nav .navbar .media-icons {
@@ -542,6 +542,6 @@ footer .text span a:hover {
 
   .skills-details .boxes .per {
     font-size: 50px;
-    color: #e61919;
+    color: #730505;
   }
 }
